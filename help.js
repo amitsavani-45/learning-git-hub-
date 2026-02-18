@@ -1,4 +1,4 @@
-What is git help?
+/*What is git help?
 
 git help provides detailed manuals (man pages) for Git commands, concepts, and workflows.
 It explains syntax, options, and usage examples of Git features.
@@ -95,3 +95,4 @@ Forgot command syntax → git help rebase
 Need options → git merge -h
 
 Learn concept → git help glossary
+*/
