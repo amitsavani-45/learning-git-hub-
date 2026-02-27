@@ -17,10 +17,5 @@ Ye command sirf ye check karne ke liye hota hai ki aapke computer mein Git sahi 
 Usage:
 Terminal ya Command Prompt par bas type karein:
 
-Bash
-git version
-Output Example:
-git version 2.40.1
 
-Kyun zaroori hai? Kabhi-kabhi naye features purane Git versions par kaam nahi karte. Is command se aap confirm kar sakte hain ki aapka Git up-to-date hai.
-*/
+
