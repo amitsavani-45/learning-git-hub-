@@ -1,4 +1,4 @@
-/*Git Log - Complete Theory
+/*Git Log 
 
  What is Git Log?Git log is a Git command that displays the commit history of a repository. It shows a chronological list of all commits made to the project, providing a complete audit trail of changes over time.Think of it as a detailed journal or timeline that records every snapshot (commit) of your project's development history.
 
