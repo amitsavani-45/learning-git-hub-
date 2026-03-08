@@ -24,5 +24,5 @@ feature-login branch → Login feature development
 
 When the login feature is completed, you merge it into main.
 
-👉 Git takes the changes from feature-login and integrates them into main.
+
 */
