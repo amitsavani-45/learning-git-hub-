@@ -14,7 +14,7 @@ Synchronization: Allows you to work on the same project from different computers
 
 Deployment: Sends your code to live servers to update a website or application.
 
-🔧 How to Use git push
+ How to Use git push
 Step-by-Step Process:
 Step 1: Commit Your Changes You cannot push changes that haven't been committed yet.
 

@@ -1,7 +1,7 @@
 /*git rebase
 
 Kya karta hai:
-👉 Branch history ko clean aur straight line me convert karta hai
+ Branch history ko clean aur straight line me convert karta hai
 
 Simple language:
 
