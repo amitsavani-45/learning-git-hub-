@@ -41,7 +41,7 @@ git reset --hard HEAD~1
 
 ## **2. If the Last Commit is Already Pushed to GitHub**
 
-⚠️ **Warning:** Deleting a pushed commit rewrites history. If others have pulled the repo, it can cause conflicts. Only do this if you are sure.
+**Warning:** Deleting a pushed commit rewrites history. If others have pulled the repo, it can cause conflicts. Only do this if you are sure.
 
 ### Steps:
 
