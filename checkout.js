@@ -7,7 +7,8 @@ In simple terms, it allows a developer to switch from one version of the project
 git checkout is used to:
 
 Switch between branches
-
+ 
+jb hume main branch mese dusri branch me shift hona hai hai tb hum git branch use krte hai 
 Create and switch to a new branch
 
 View or restore a specific commit
