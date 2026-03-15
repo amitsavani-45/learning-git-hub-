@@ -7,5 +7,9 @@ Purpose:
 
 Work on new features separately
 
+agr hum kisi naye feature pe kaam karna chahte hai to hum ek alag branch banate hai jisse main code safe rahe
+
+Experiment without risk
+
 Manage multiple versions
 */
