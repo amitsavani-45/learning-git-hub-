@@ -7,4 +7,6 @@ Purpose:
 
 Copy project from remote server
 
+mtlb ke kisi dusre ke project ko apne local system me lana hai to hum git clone ka use karte hai
+
 Start working on existing project*/
