@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*  Git Status — Theory Explanation
 
 git status is a Git command used to display the current condition of the working directory and staging area in a Git repository. It provides information about changes made to files, files that are ready to be committed, and files that are not yet tracked by Git. This command helps developers understand what actions need to be taken before creating a commit.
