@@ -48,7 +48,7 @@ Conclusion
 
 In theory, git status is an informational command that gives a complete overview of the repository’s current state. It is commonly used before staging or committing changes to ensure that all intended modifications are correctly prepared.
 */
-=======
+
 /*
 ## What is `git status`?
 
@@ -139,4 +139,4 @@ Untracked files:
 
 */
 
->>>>>>> 16df8a89e962a1b79e49deac3cbcde494606c66e
+
