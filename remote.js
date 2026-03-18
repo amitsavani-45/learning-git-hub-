@@ -27,5 +27,5 @@ By default, when you clone a repository, Git automatically creates a remote name
 origin
 
 
-origin is just a default name — it represents the URL of the remote repository.
+
 */
