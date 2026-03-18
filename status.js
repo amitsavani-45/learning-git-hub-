@@ -66,7 +66,7 @@ It helps you know:
 * Which files are **untracked** (not added to Git yet)
 * Whether your branch is **up to date** with the remote repository
 
-Think of it as a **project health check** 🩺
+T
 
 ---
 
