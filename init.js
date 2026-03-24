@@ -51,11 +51,5 @@ MyProject/
 2. What's Inside the .git Folder?
 The .git folder contains everything Git needs to track your project:
 
-config - Repository configuration settings
-objects/ - All your file contents and commits (Git's database)
-refs/ - References to commits (branches, tags)
-HEAD - Points to the current branch you're on
-hooks/ - Scripts that run automatically on certain Git events
-info/ - Additional repository information
-description - Description of the repository
+
 */
