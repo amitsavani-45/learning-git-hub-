@@ -24,8 +24,6 @@ A remote is simply a reference (shortcut name) for a repository hosted elsewhere
 
 By default, when you clone a repository, Git automatically creates a remote named:
 
-origin
-
 
 
 */
