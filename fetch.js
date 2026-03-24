@@ -1,8 +1,8 @@
 /*git fetch
 
 Kya karta hai:
-👉 Remote repository (GitHub) se latest changes download karta hai
-👉 Lekin tumhari current files ko change nahi karta
+Remote repository (GitHub) se latest changes download karta hai
+ Lekin tumhari current files ko change nahi karta
 
 Simple language:
 
